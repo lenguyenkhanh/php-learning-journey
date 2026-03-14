@@ -26,5 +26,6 @@
 - Git không chỉ là để lưu code, mà là để quản lý lịch sử tư duy.
 
 ---
-**Author:** Khánh Nguyễn  
+**Author:** Lê Nguyễn Khánh - JustinK
+
 *Stay hungry, stay foolish.*
