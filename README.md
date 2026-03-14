@@ -1,23 +1,30 @@
-# PHP Learning Journey
+# 🚀 My PHP & Laravel Journey
 
-This repository contains my PHP learning exercises and mini projects while preparing for a Backend Developer position.
+Đây là nơi mình ghi lại quá trình tự học và xây dựng dự án **Tour Booking System**. Mỗi ngày là một bước tiến mới trong tư duy và kỹ năng Backend.
 
-## Topics
+## 📌 Project Overview
+- **Project:** Tour Booking System
+- **Core:** PHP 8.2+ & Laravel 11
+- **Focus:** Database Design, Eloquent Relationships, API Architecture.
 
-- PHP Basics
-- Arrays
-- Loops
-- Functions
-- Form Handling (GET / POST)
-- PHP OOP
-- Mini Projects
+---
 
-## Project Structu
+## 📅 The Journey Log
 
-## Goal
+### 🟦 Day 1: Laying the Foundation
+- **Goal:** Design a robust database for a complex booking system.
+- **Done:** - Initialized Laravel & Git repository.
+    - Designed 11 tables with strict Foreign Key constraints.
+    - Mastered Git workflow (`pull --rebase`, `push --force` safety).
+    - Fixed `errno: 150` - A deep lesson in data type consistency.
 
-Build strong PHP fundamentals before learning Laravel.
 
-## Author
+---
 
-Khanh Nguyen
+## 💡 Key Takeaways
+- "Móng nhà (Database) không chắc, code không bao giờ cao được."
+- Git không chỉ là để lưu code, mà là để quản lý lịch sử tư duy.
+
+---
+**Author:** Khánh Nguyễn  
+*Stay hungry, stay foolish.*
