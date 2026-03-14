@@ -12,12 +12,7 @@ This repository contains my PHP learning exercises and mini projects while prepa
 - PHP OOP
 - Mini Projects
 
-## Project Structure
-
-day1-arrays  
-day2-form  
-day3-oop  
-day4-mini-project
+## Project Structu
 
 ## Goal
 
