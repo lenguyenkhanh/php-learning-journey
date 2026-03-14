@@ -1,0 +1,33 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('checkout', function (Blueprint $table) {
+        $table->id('checkoutID');
+        $table->foreignId('bookingID')->constrained('booking', 'bookingID')->onDelete('cascade');
+        $table->string('paymentMethod');
+        $table->date('paymentDate');
+        $table->double('amount');
+        $table->string('paymentStatus');
+        $table->string('transactionID');
+        $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('checkout');
+    }
+};
