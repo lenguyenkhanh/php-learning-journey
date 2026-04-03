@@ -18,14 +18,3 @@
     - Mastered Git workflow (`pull --rebase`, `push --force` safety).
     - Fixed `errno: 150` - A deep lesson in data type consistency.
 
-
----
-
-## 💡 Key Takeaways
-- "Móng nhà (Database) không chắc, code không bao giờ cao được."
-- Git không chỉ là để lưu code, mà là để quản lý lịch sử tư duy.
-
----
-**Author:** Lê Nguyễn Khánh - JustinK
-
-*Stay hungry, stay foolish.*
